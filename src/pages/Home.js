@@ -1,5 +1,5 @@
 import React from 'react'
-import web from "../images/rocket3.gif";
+import web from "../images/rocket.png";
 import Common from './Common';
 
 const Home = () => {
