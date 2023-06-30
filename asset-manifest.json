@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tutreact/static/css/main.1dfeed8d.css",
+    "main.js": "/tutreact/static/js/main.3fd49b86.js",
+    "static/js/787.5480e000.chunk.js": "/tutreact/static/js/787.5480e000.chunk.js",
+    "static/media/rocket3.gif": "/tutreact/static/media/rocket3.79608f1d0a05b784e5a7.gif",
+    "static/media/front2.png": "/tutreact/static/media/front2.c27e9fec5cc57a0e3a48.png",
+    "static/media/node.png": "/tutreact/static/media/node.31d37bb95e3c8982de46.png",
+    "static/media/bootstrap.jpg": "/tutreact/static/media/bootstrap.19ce58abab51658ea12a.jpg",
+    "static/media/javascript.jpg": "/tutreact/static/media/javascript.24961ad976a2ac7ff695.jpg",
+    "static/media/react.png": "/tutreact/static/media/react.2b2dda5fa3bc3cde145e.png",
+    "static/media/css.png": "/tutreact/static/media/css.c55fd3d4bc7055566b8d.png",
+    "index.html": "/tutreact/index.html",
+    "main.1dfeed8d.css.map": "/tutreact/static/css/main.1dfeed8d.css.map",
+    "main.3fd49b86.js.map": "/tutreact/static/js/main.3fd49b86.js.map",
+    "787.5480e000.chunk.js.map": "/tutreact/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfeed8d.css",
+    "static/js/main.3fd49b86.js"
+  ]
+}
